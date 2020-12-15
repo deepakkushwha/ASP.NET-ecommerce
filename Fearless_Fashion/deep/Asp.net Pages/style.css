@@ -1,0 +1,81 @@
+﻿
+.headerset {
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    transition: all.5s ease;
+}
+
+
+
+    #buttonone {
+        background-color: #fff;
+        color: #000;
+        border: none;
+        font-size: 12px;
+        font-weight: bold;
+        text-transform: uppercase;
+        line-height: 40px;
+        width: 150px;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 25px;
+        border: 3px solid white;
+    }
+
+    #buttonone:hover {
+        background-color: #00b894;
+        color: white;
+    }
+
+#buttontwo:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+#buttontwo {
+    background-color: transparent;
+    background-color: #00b894;
+    color: white;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 40px;
+    border: 3px solid white;
+    width: 150px;
+}
+
+.change_contant:after {
+    content: '';
+    animation: changetext 10s infinite linear;
+    background-color: #00b894;
+}
+
+@keyframes changetext {
+    0% {
+        content: "Diwali";
+    }
+
+    20% {
+        content: "Dussehra";
+    }
+
+    35% {
+        content: "Birthday";
+    }
+
+    60% {
+        content: "Marriage";
+    }
+
+    8% {
+        content: "Raksha";
+    }
+
+    100% {
+        content: "Holi";
+    }
+}
+
+
