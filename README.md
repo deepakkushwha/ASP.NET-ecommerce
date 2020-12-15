@@ -15,5 +15,23 @@ Gallery Page
 ![IMG_20201215_192125](https://user-images.githubusercontent.com/75658978/102225437-3ae2d100-3f0d-11eb-96ce-a63a416225c3.jpg)
  View Page
  ![IMG_20201215_192047](https://user-images.githubusercontent.com/75658978/102225505-4f26ce00-3f0d-11eb-991e-e0739272f324.jpg)
+ 
+ADD_TO_CART
+![IMG_20201215_192026](https://user-images.githubusercontent.com/75658978/102225667-7c737c00-3f0d-11eb-93d7-d17180716a52.jpg)
 
+Address Details
+![IMG_20201215_191955](https://user-images.githubusercontent.com/75658978/102225729-8f864c00-3f0d-11eb-98b4-3bb5d27ca192.jpg)
+
+Order_Confirm
+![IMG_20201215_191935](https://user-images.githubusercontent.com/75658978/102225804-9e6cfe80-3f0d-11eb-8233-3c4e99c23ad0.jpg)
+
+Admin Login
+![IMG_20201215_191906](https://user-images.githubusercontent.com/75658978/102225884-b9d80980-3f0d-11eb-90a5-d893b2e71cdb.jpg)
+Add_Product Details
+![IMG_20201215_191824](https://user-images.githubusercontent.com/75658978/102225975-d3795100-3f0d-11eb-8364-4a2279b764a0.jpg)
+
+FeedBack Page
+![IMG_20201215_191835](https://user-images.githubusercontent.com/75658978/102226017-e0964000-3f0d-11eb-9ed2-fb5c586e31e3.jpg)
+Stock Details
+![IMG_20201215_191754](https://user-images.githubusercontent.com/75658978/102226046-e8ee7b00-3f0d-11eb-815b-ce63b2929514.jpg)
 
